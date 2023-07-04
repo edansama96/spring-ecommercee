@@ -8,6 +8,7 @@ public class OrderDetail {
 	private Double amount;
 	private Double price;
 	private Double total;
+	private Double total1;
 	
 	public OrderDetail() {
 		// TODO Auto-generated constructor stub
